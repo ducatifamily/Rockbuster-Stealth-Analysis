@@ -52,7 +52,7 @@ These insights support data-driven recommendations for Rockbuster’s digital st
 ## Interactive Dashboard
 An interactive dashboard summarizing key findings is available on Tableau Public:
 
-👉 **[View the Rockbuster Analysis on Tableau Public](INSERT_TABLEAU_LINK_HERE)**
+👉 **[View the Rockbuster Analysis on Tableau Public] https://public.tableau.com/app/profile/kristina.noriega/viz/Part1Noriega3_10/CustomersLocation & https://public.tableau.com/app/profile/kristina.noriega/viz/Part2Noriega3_10/ChinaRentalsbyGenre
 
 ---
 
